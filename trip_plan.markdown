@@ -2,6 +2,11 @@
 layout: default
 title: Plan wycieczki
 ---
+## Format wyprawy
+
+* **Czas**: 3 tygodnie
+* **Noclegi**: pod namiotem
+* **Cel**: ...
 
 ## Wylot
 Wylatujemy z Berlina **30 kwietnia 2010**. Do Berlina dotrzemy przez Szczecin
