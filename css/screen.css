@@ -65,6 +65,7 @@ img {
   border-left: 1px solid #555;
   width: 250px;
   min-height: 100%;
+  padding: 10px;
 }
 
 .meta {
