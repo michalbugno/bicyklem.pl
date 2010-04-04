@@ -4,7 +4,8 @@ layout: default
 <div class="post">
   <h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
   <div class="meta">
-    <span class="date">{{ page.date | date: "%Y-%m-%d" }}</span>
+    <span class="date">{{ page.date | date: "%Y-%m-%d" }}</span>,
+    <span class="author"><a href="/about.html">{{ page.author }}</a></span>
   </div>
   {{ page.content | textilize }}
 </div>

@@ -6,7 +6,8 @@ title: Start
   <div class="post">
     <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
     <div class="meta">
-      <span class="date">{{ post.date | date: "%Y-%m-%d" }}</span>
+      <span class="date">{{ post.date | date: "%Y-%m-%d" }}</span>,
+      <span class="author"><a href="/about.html">{{ post.author }}</a></span>
     </div>
     {{ post.content }}
   </div>
