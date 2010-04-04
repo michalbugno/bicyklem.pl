@@ -16,11 +16,14 @@ które planujemy odwiedzić:
  * **Blue Lagoon** -- kąpiele geotermalne
  * **Þingvellir** -- park narodowy
  * **Gullfoss** -- jeden z licznych wodospadów
+ * **Jökulsárlón** -- lodowcowa laguna
  * **Laugavegur** -- podobno ładna trasa trekingowa
  * **Litli Geysir, Haukadalur** -- gejzer
- * **Geysir, Haukadalur** -- gejzer
- * **Mývatn** -- jezioro
+ * **Mývatn** -- jezioro, krajobrazy wulkaniczne, region geotermalny
  * **Skógafoss** -- wodospad
+ * **Dettifoss** -- wodospad
+ * **Hekla** -- wulkan
+ * **Hvannadalshnjúkur** -- lodowiec i za razem najwyższy szczyt Islandii
 
 ## Powrót
 Powrót z Reykjaviku **21 maja 2010** także do Berlina, potem pomyślimy o
