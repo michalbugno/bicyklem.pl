@@ -3,10 +3,16 @@ layout: default
 title: Bodensee - relacja z wyprawy
 ---
 
-## Wstęp
-Wyjazd rozpoczął się długą podróżą pociągiem 2 września 2009, a zakończył 13 dni
-później, 15 września.
+## Info
+ * Marcin Bedner
+ * Michał <em>msq</em> Bugno
+ * Sławek <em>sek</em> Musiał
+ * Janusz <em>Janua</em> Sławek
 
+Wyjazd rozpoczął się długą podróżą pociągiem 2 września 2009, a zakończył prawie
+dwa tygodnie później, 15 września.
+
+## Wstęp
 Podróż do Lindau zabrała nam kilkanaście godzin wyjazdu, w tym czasie przejazdem
 odwiedziliśmy Pragę i Monachium. W drodze powrotnej w Monachium zatrzymaliśmy
 się dłużej (dziękujemy mamie Janusza za gościnę i poświęcony czas!) i
