@@ -44,6 +44,8 @@ img {
 
 #menu {
   height: 55px;
+  padding-top: 60px;
+  padding-bottom: 20px;
 }
 
 #menu li {
@@ -62,10 +64,18 @@ img {
 
 #sidebar {
   float: right;
-  border-left: 1px solid #555;
+  border-left: 1px solid #999;
   width: 250px;
   min-height: 100%;
   padding: 10px;
+}
+
+#footer {
+  text-align: center;
+  border-top: 1px solid #999;
+  margin: 50px auto;
+  padding-top: 5px;
+  width: 400px;
 }
 
 .meta {

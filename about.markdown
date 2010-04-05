@@ -24,7 +24,7 @@ Szwajcarię i deszczową Szkocję. Prywatnie fan Boba Dylana. Zawodowo
 entuzjasta Javy i SOA ;) Naczelny fotograf wyprawowy!
 <br class="clear">
 
-### Michał Bugno
+### Michał <em>msq</em> Bugno
 ![Michał Bugno](./images/bugno.jpg)
 
 Mam 25 lat, nałogowo słucham muzyki różnych gatunków, ostatnio poświęciłem
@@ -36,13 +36,9 @@ Na rowerze jeżdżę od dawna, ale dopiero rok temu byłem na rowerowej wycieczc
 dłuższej niż jeden dzień.
 <br class="clear">
 
-### Filip Ostatek
+### Filip <em>fost</em> Ostatek
 ![Filip Ostatek](./images/ostatek.jpg)
 
 Wielki fan draży, prowadzi największą stronę o drażach w Polsce (a być może i na
 świecie!) [http://users.v-lo.krakow.pl/~ostatek/](http://users.v-lo.krakow.pl/~ostatek/)
 <br class="clear">
-
-## Ta strona
-Ta strona została stworzona w pocie czoła przez Michała B., z pomocą Rubyego i
-Jekylla.
