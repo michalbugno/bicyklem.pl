@@ -22,7 +22,7 @@ odpoczęliśmy trochę przed powrotem do Krakowa.
 Wycieczkę rozpoczęliśmy od solidnego wypoczynku :-) Przyjechaliśmy do Lindau
 późnym popołudniem, zmęczeni podróżą popedałowaliśmy szybko w kierunku
 pobliskiego Bregenz (blisko, ale już w Austrii!) znajdując po drodze kemping gdzie
-zameldowaliśmy się na kempingu i spędziliśmy pierwszą, pogodną noc pod namiotami.
+zameldowaliśmy się i spędziliśmy pierwszą, pogodną noc pod namiotami.
 
 ## Szwajcaria
 
@@ -167,3 +167,5 @@ pobliskiego salonu moto.
 ### dzień 12
 Zmęczeni wycieczką musimy jeszcze przeboleć kilkanaście godzin w pociągu, ale to
 nie ma większego znaczenia, było rewelacyjnie, za niedługo powtórka!
+
+*msq*
