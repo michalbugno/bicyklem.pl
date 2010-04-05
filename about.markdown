@@ -42,7 +42,14 @@ Jest naszym naczelnym fotografem!
 <br class="clear">
 
 ### Filip <em>fost</em> Ostatek
-<img src="./images/ostatek.jpg" class="left" />
+<img src="./images/fost.jpg" class="left" />
+
+
+> &#8220;Do tej pory na rowerze jeździłem tylko po Polsce,
+> za sobą mam m.in. wyprawy wzdłóż wschodniej i zachodniej granicy.
+> Uwielbiam nie tylko rower, ale wszystkie formy aktywnego wypoczynku 
+>(szereg wędrówek po polskich Beskidach, kilka spływów kajakowych).&#8220;
+
 
 Wielki fan draży, prowadzi największą stronę o drażach w Polsce (a być może i na
 świecie!) [http://users.v-lo.krakow.pl/~ostatek/](http://users.v-lo.krakow.pl/~ostatek/)
