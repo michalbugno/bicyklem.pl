@@ -46,9 +46,9 @@ Jest naszym naczelnym fotografem!
 
 
 > &#8220;Do tej pory na rowerze jeździłem tylko po Polsce,
-> za sobą mam m.in. wyprawy wzdłóż wschodniej i zachodniej granicy.
+> za sobą mam m.in. wyprawy wzdłuż wschodniej i zachodniej granicy.
 > Uwielbiam nie tylko rower, ale wszystkie formy aktywnego wypoczynku 
->(szereg wędrówek po polskich Beskidach, kilka spływów kajakowych).&#8220;
+> (szereg wędrówek po polskich Beskidach, kilka spływów kajakowych).&#8220;
 
 
 Wielki fan draży, prowadzi największą stronę o drażach w Polsce (a być może i na
