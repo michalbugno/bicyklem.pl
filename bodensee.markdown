@@ -26,26 +26,26 @@ fotografie i zaczęliśmy podróż wokół jeziora.
 <a href="./images/bodensee/04_01.jpg"><img src="./images/bodensee/04_01_thumb.jpg" class="right" /></a>
 Pedałowanie szło sprawnie, mimo sporej wagi rowerów jechaliśmy jak na amatorów dość
 szybko -- trasa wokół jeziora była przyjemna i lekka. Dopedałowaliśmy zdaje się do
-Uberlingen, gdzie rozbiliśmy się aby przenocować, wcześniej spowolnił nas trochę dość
+**Uberlingen**, gdzie rozbiliśmy się aby przenocować, wcześniej spowolnił nas trochę dość
 mocny deszcz.
 
 ### dzień 3
 <a href="./images/bodensee/05_01.jpg"><img src="./images/bodensee/05_01_thumb.jpg" class="left" /></a>
-Ładna Konstancja była chyba najciekawszym punktem trzeciego dnia, miasto
+Ładna **Konstancja** była chyba najciekawszym punktem trzeciego dnia, miasto
 położone nad jeziorem na granicy niemiecko--szwajcarskiej było dość duże, świetna
 pogoda, która nas nie opuszczała dodawała energii (nie mniej niż obiad nad rzeką),
 ścieżki rowerowe były z nami przez cały czas, słowem: jechać nie umierać!
 <a href="./images/bodensee/05_02.jpg"><img src="./images/bodensee/05_02_thumb.jpg" class="right" /></a>
 Tego dnia zdecydowaliśmy, że będziemy oddalali się od jeziora, z Konstancji pojechaliśmy
 w stronę Winterthuru, żeby następnie udać się do Zurychu, który wydał nam się
-bardzo fajnym miejscem do zobaczenia.  Dotarliśmy do Eschenz, gdzie w bardzo ładnie
+bardzo fajnym miejscem do zobaczenia.  Dotarliśmy do **Eschenz**, gdzie w bardzo ładnie
 położonym kempingu i przy pięknej pogodzie przenocowaliśmy.
 
 ### dzień 4
 <a href="./images/bodensee/06_01.jpg"><img src="./images/bodensee/06_01_thumb.jpg" class="right" /></a>
-Cel: Zurych! Wypoczęci i w dobrych nastrojach, bo powitani słonecznym porankiem,
-wyruszyliśmy na podbój Zurychu :-) Szybko na zachód do Schaffhausen, i na
-południe przez Winterthur do punktu docelowego. Wszyscy byli chyba zadowoleni w
+Cel: **Zurych**! Wypoczęci i w dobrych nastrojach, bo powitani słonecznym porankiem,
+wyruszyliśmy na podbój Zurychu :-) Szybko na zachód do **Schaffhausen**, i na
+południe przez **Winterthur** do punktu docelowego. Wszyscy byli chyba zadowoleni w
 tym momencie z tego, jak rozwija się trasa, Zurych był ciekawym celem, pogoda była
 rewelacyjna i nastroje ciągle dobre, nie czuć było zmęczenia. Do czasu. Po dość
 długim pedałowaniu dotarliśmy.
@@ -67,8 +67,8 @@ nie było).
 ### dzień 5
 <a href="./images/bodensee/07_01.jpg"><img src="./images/bodensee/07_01_thumb.jpg" class="left" /></a>
 Kolejny dzień wyprawy upłynął pod znakiem jezior. Najpierw północna część
-Zurichsee, odpoczynek w bardzo ładnym Schmerikon, uzupełnienie zapasów wody i
-wina ;) a następnie pięknie położone jezioro Walensee.
+Zurichsee, odpoczynek w bardzo ładnym **Schmerikon**, uzupełnienie zapasów wody i
+wina ;) a następnie malowniczo położone jezioro **Walensee**.
 
 <a href="./images/bodensee/07_02.jpg"><img src="./images/bodensee/07_02_thumb.jpg" class="left" /></a>
 Nad jeziorem spędziliśmy noc, wcześniej łudząc się, że można się będzie wykąpać
@@ -93,7 +93,7 @@ wygraną, docieramy na szczyt **Vorder Höhi**, satysfakcja nie do opisania,
 fotkę, my również odwdzięczamy się fotką (miał aparat z zepsutym wyświetlaczem,
 więc nie wiemy, czy wychodzi ;)
 
-Po posiłku zjeżdżamy do Alt St. Johann, gdzie nocujemy, uprzednio robiąc dość
+Po posiłku zjeżdżamy do **Alt St. Johann**, gdzie nocujemy, uprzednio robiąc dość
 duże zakupy.
 
 To był najcięższy dzień z całej podróży, jednocześnie wynagrodzeni zostaliśmy
@@ -104,15 +104,28 @@ najpiękniejszymi widokami!
 <a href="./images/bodensee/08_04.jpg"><img src="./images/bodensee/08_04_thumb.jpg" class="left" /></a>
 
 ### dzień 7
-Postanawiamy zahaczyć o Liechtenstein, jesteśmy przecież tak blisko! Wszystko tutaj
+Postanawiamy zahaczyć o **Liechtenstein**, jesteśmy przecież tak blisko! Wszystko tutaj
 jest blisko, jeziora, Alpy, Niemcy, Szwajcaria, Austria, Liechtenstein, wydaje się,
 że jesteśmy w jakimś cudownym punkcie, z którego w chwilę można dojechać gdzie
 tylko chcemy!
 
-Zjazd do Vaduz, stolicy Liechtensteinu mija raz-dwa, w malutkim mieście spędzamy
+<a href="./images/bodensee/09_03.jpg"><img src="./images/bodensee/09_03_thumb.jpg" class="left" /></a>
+Zjazd do **Vaduz**, stolicy Liechtensteinu mija raz-dwa, w malutkim mieście spędzamy
 2-3 godziny, odwiedzając górujący nad nim zamek, siedzibę rodziny królewskiej
 rodziny.
 
+<a href="./images/bodensee/09_01.jpg"><img src="./images/bodensee/09_01_thumb.jpg" class="right" /></a>
+Jedziemy wzdłuż granicy szukając powoli kempingu, pierwszy nie istnieje, drugi
+jest kilkanaście kilometrów dalej, ale trasa jest ładna, za nami potężne góry;
+dojeżdżamy do **Buchs**. Dosłownie pochłaniamy smaczną kolację, słuchamy muzyki,
+która dociera do nas z lokalnego festynu. Szybki prysznic i sen!
+<a href="./images/bodensee/09_02.jpg"><img src="./images/bodensee/09_02_thumb.jpg" class="left" /></a>
+
+Rano budzi nas niska temperatura, zaczna robić się chłodno, to już przecież 10
+września.
+
 ## Powrót nad jezioro
+
+### dzień 8
 
 ## Berlin
