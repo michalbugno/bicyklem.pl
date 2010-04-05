@@ -155,3 +155,9 @@ z Nią to, co powinno się odwiedzić w Monachium, prawie gubimy kartę pamięci
 połową zdjęć z aparatu (Marcin tak bardzo zwracał uwagę na motocykle BMW, że
 zapomniał wziąć pokrowca na aparat), na szczęście uczciwy znalazca odnosi ją do
 pobliskiego salonu moto.
+
+## Powrót
+
+### dzień 12
+Zmęczeni wycieczką musimy jeszcze przeboleć kilkanaście godzin w pociągu, ale to
+nie ma większego znaczenia, było rewelacyjnie, za niedługo powtórka!
