@@ -14,8 +14,8 @@ zatrzymując się na chwilę u rodziny Marcina, kudos!
 
 ## Trasa
 
-Trasa zaplanowana troche "palcem po mapie" i ciagle zmieniana, ale napewno przybliża to co chcemy zrealizować.
-Łączną długość wyestymowaliśmy na około 1800km.
+Trasa zaplanowana trochę "palcem po mapie" i ciągle zmieniana, ale na pewno przybliża to, co chcemy zrealizować.
+Łączną długość wyestymowaliśmy na około **1800km**.
 
 <div>
 <!-- <object width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" data="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=pl&amp;msa=0&amp;msid=114508869251861488154.0004837bd750e44d9d7ab&amp;ll=65.476508,-18.566895&amp;spn=3.012124,10.089701&amp;output=embed"></object> -->
