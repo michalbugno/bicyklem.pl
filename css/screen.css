@@ -86,3 +86,7 @@ img {
 blockquote {
   font-style: italic;
 }
+
+abbr {
+  border-bottom: 1px dotted black;
+}

@@ -4,9 +4,11 @@ title: Uczestnicy
 ---
 
 ## O nas
-Jesteśmy studentami V roku informatyki na Akademii Górniczo-Hutniczej. Rok temu
-wybraliśmy się (w nieco innym składzie) na rowerową wycieczkę dookoła jeziora
-Bodeńskiego. Wyprawa udała się na tyle, że w tym roku postanowiliśmy powtórzyć
+
+Jesteśmy studentami V roku Informatyki na Akademii Górniczo-Hutniczej (wydział
+<abbr title="Elektrotechniki, Automatyki, Informatyki i Elektroniki">EAIiE</abbr>).
+Rok temu wybraliśmy się (w nieco innym składzie) na rowerową wycieczkę dookoła
+jeziora Bodeńskiego. Wyprawa udała się na tyle, że w tym roku postanowiliśmy powtórzyć
 przygodę - tym razem w bardziej wymagającym miejscu.
 
 Wybór padł na Islandię, kraj intrygujący i zupełnie inny od znanych nam
