@@ -127,5 +127,31 @@ września.
 ## Powrót nad jezioro
 
 ### dzień 8
+<a href="./images/bodensee/10_01.jpg"><img src="./images/bodensee/10_01_thumb.jpg" class="left" /></a>
+Brak pomysłów na trasę (i chyba troszkę zmęczenie) popycha nas niemal do punktu wyjścia
+-- Bregenz. Jadąc trafiamy na trójpunkt Austria--Szwajcaria--Liechtenstein:
+przejście graniczne w **Bangs**. Chwilę później zatrzymujemy się na posiłek przy
+placu zabaw (korzystając z okazji odpreżamy się ;d), droga do **Bregenz** mija
+szybko, ale nie nudzi się: mijamy wycieczkę rowerową ze średnią wieku 80 lat
+(tak trzymać! :-)).
 
-## Berlin
+<a href="./images/bodensee/10_02.jpg"><img src="./images/bodensee/10_02_thumb.jpg" class="right" /></a>
+W Bregencji odpoczywamy, mamy troszkę czasu, nie spieszy się nam. Po
+zameldowaniu na kempingu jedziemy rowerami bez sakw do centrum -- rowery nagle
+przestały ważyć, musimy stopować na ograniczeniach prędkości ;-)
+
+Kebab w mieście wydaje się być nadzwyczaj smaczny, wstępujemy do hipermarketu
+zakupując produkty na kolację i śniadanie. Powrót na kemping w ekspresowym
+tempie, tradycyjne wino przy tradycyjnych wieczornych rozmowach usypia nas,
+zmęczonych trudem podróży.
+
+<a href="./images/bodensee/10_03.jpg"><img src="./images/bodensee/10_03_thumb.jpg" class="left" /></a>
+
+## Monachium
+
+### dzień 9, 10, 11
+W Monachium gości nas mama Janusza, za co serdecznie jej dziękujemy! Odwiedzamy
+z Nią to, co powinno się odwiedzić w Monachium, prawie gubimy kartę pamięci z
+połową zdjęć z aparatu (Marcin tak bardzo zwracał uwagę na motocykle BMW, że
+zapomniał wziąć pokrowca na aparat), na szczęście uczciwy znalazca odnosi ją do
+pobliskiego salonu moto.
