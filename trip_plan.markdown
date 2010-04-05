@@ -44,7 +44,7 @@ które planujemy odwiedzić:
  * **Skógafoss** -- wodospad
  * **Dettifoss** -- wodospad
  * **Hekla** -- wulkan
- * **Hvannadalshnjúkur** -- lodowiec i za razem najwyższy szczyt Islandii
+ * **Hvannadalshnjúkur** -- lodowiec i zarazem najwyższy szczyt Islandii
 
 ## Powrót
 Powrót z Reykjaviku **21 maja 2010** także do Berlina, potem pomyślimy o
