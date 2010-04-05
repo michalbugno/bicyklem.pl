@@ -30,8 +30,19 @@ ul li, ol li {
   clear: both;
 }
 
-img {
+.left {
   float: left;
+}
+
+.right {
+  float: right;
+}
+
+p {
+  text-align: justify;
+}
+
+img {
   border: 1px solid #526583;
   padding: 5px;
   margin: 0 10px 0 10px;

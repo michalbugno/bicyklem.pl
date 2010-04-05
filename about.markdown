@@ -19,7 +19,7 @@ niespotykane atrakcje: liczne wodospady, gejzery i piękne krajobrazy.
 Każdy z nas trzy słowa o sobie:
 
 ### Marcin Bedner
-![Marcin Bedner](./images/bedner.jpg)
+<img src="./images/bedner.jpg" class="left" />
 
 > &#8220;W większych i mniejszych wyprawach rowerowych biorę udział od szkoły średniej.
 > Na swoim koncie mam już przebyte trasy prowadzące przez Niemcy, Anglię,
@@ -30,7 +30,7 @@ Jest naszym naczelnym fotografem!
 <br class="clear">
 
 ### Michał <em>msq</em> Bugno
-![Michał Bugno](./images/bugno.jpg)
+<img src="./images/bugno.jpg" class="left" />
 
 > &#8220;Mam 25 lat, nałogowo słucham muzyki różnych gatunków, ostatnio poświęciłem
 > się mojej nowej pasji -- ostrym kole rowerowym (wtajemniczeni wiedzą o co
@@ -42,7 +42,7 @@ Jest naszym naczelnym fotografem!
 <br class="clear">
 
 ### Filip <em>fost</em> Ostatek
-![Filip Ostatek](./images/ostatek.jpg)
+<img src="./images/ostatek.jpg" class="left" />
 
 Wielki fan draży, prowadzi największą stronę o drażach w Polsce (a być może i na
 świecie!) [http://users.v-lo.krakow.pl/~ostatek/](http://users.v-lo.krakow.pl/~ostatek/)
