@@ -12,6 +12,7 @@ W zamian oferujemy:
  * zdjęcia z wyprawy (**z Twoim produktem**)
  * banner na tej stronie (widoczny z każdej podstrony)
  * rzetelny test **Twojego produktu**
+ * informacja na ewentualnych slajdowiskach, spotkaniach, itp.
  * wpis na stronie sponsorów
  * ... oraz **wieczną chwałę** i **dozgonną wdzięczność** :-)
 
