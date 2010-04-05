@@ -14,26 +14,29 @@ europejskich krajów -- surowy klimat, wymagające warunki pogodowe wynagradzaj�
 niespotykane atrakcje: liczne wodospady, gejzery i piękne krajobrazy.
 
 ## Uczestnicy wyprawy
+Każdy z nas trzy słowa o sobie:
 
 ### Marcin Bedner
 ![Marcin Bedner](./images/bedner.jpg)
 
-W większych i mniejszych wyprawach rowerowych biorę udział od szkoły średniej.
-Na swoim koncie mam już przebyte trasy prowadzące przez Niemcy, Anglię,
-Szwajcarię i deszczową Szkocję. Prywatnie fan Boba Dylana. Zawodowo
-entuzjasta Javy i SOA ;) Naczelny fotograf wyprawowy!
+> &#8220;W większych i mniejszych wyprawach rowerowych biorę udział od szkoły średniej.
+> Na swoim koncie mam już przebyte trasy prowadzące przez Niemcy, Anglię,
+> Szwajcarię i deszczową Szkocję. Prywatnie fan Boba Dylana. Zawodowo
+> entuzjasta Javy i SOA ;) &#8220;
+
+Jest naszym naczelnym fotografem!
 <br class="clear">
 
 ### Michał <em>msq</em> Bugno
 ![Michał Bugno](./images/bugno.jpg)
 
-Mam 25 lat, nałogowo słucham muzyki różnych gatunków, ostatnio poświęciłem
-się mojej nowej pasji -- ostrym kole rowerowym (wtajemniczeni wiedzą o co
-chodzi, niewtajemniczonych odsyłam do google); z informacji technicznych: fan
-Ruby'ego :-)
-
-Na rowerze jeżdżę od dawna, ale dopiero rok temu byłem na rowerowej wycieczce
-dłuższej niż jeden dzień.
+> &#8220;Mam 25 lat, nałogowo słucham muzyki różnych gatunków, ostatnio poświęciłem
+> się mojej nowej pasji -- ostrym kole rowerowym (wtajemniczeni wiedzą o co
+> chodzi, niewtajemniczonych odsyłam do google); z informacji technicznych: fan
+> języka Ruby :-)
+>
+> Na rowerze jeżdżę od dawna, ale dopiero rok temu byłem na rowerowej wycieczce
+> dłuższej niż jeden dzień. &#8220;
 <br class="clear">
 
 ### Filip <em>fost</em> Ostatek
