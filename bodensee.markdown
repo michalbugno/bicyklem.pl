@@ -64,7 +64,54 @@ miasta i rozbijanie się około północy. Przejechaliśmy tego dnia sporo ponad
 kempingu przed 7 rano (nie meldowaliśmy się wieczorem, bo nikogo oczywiście już
 nie było).
 
+### dzień 5
+<a href="./images/bodensee/07_01.jpg"><img src="./images/bodensee/07_01_thumb.jpg" class="left" /></a>
+Kolejny dzień wyprawy upłynął pod znakiem jezior. Najpierw północna część
+Zurichsee, odpoczynek w bardzo ładnym Schmerikon, uzupełnienie zapasów wody i
+wina ;) a następnie pięknie położone jezioro Walensee.
+
+<a href="./images/bodensee/07_02.jpg"><img src="./images/bodensee/07_02_thumb.jpg" class="left" /></a>
+Nad jeziorem spędziliśmy noc, wcześniej łudząc się, że można się będzie wykąpać
+(właścicielka kempingu tak twierdziła) - woda była cholernie zimna, i
+podziwiając już tak nieodległy alpejski krajobraz - podjazd nad jeziorem był
+troszkę przerażający, ale dopiero następny dzień nas w tym utwierdził, noc jest
+nasza :)
+
 ## Alpy
+
+### dzień 6
+<a href="./images/bodensee/08_01.jpg"><img src="./images/bodensee/08_01_thumb.jpg" class="left" /></a>
+Pobudka, i w dobrych nastrojach wyruszamy na podjazd. Śmierć. Zniszczenie.
+Tragedia. Góra ciągnie się niesamowicie, na każdym zakręcie łudzimy się, że nie
+będzie tak ostro w górę, oczywiście ostro jest dalej. Palące słońce dodatkowo
+robi swoje, każdy przystanek jest na wagę złota; na widok wody w fontannie przy
+małym kościele cieszymy się jak dzieci, orzeźwienie dodaje sporo sił.
+
+Po wielu godzinach kilkunastokilometrowy podjazd (chyba ponad 16%) daje za
+wygraną, docieramy na szczyt **Vorder Höhi**, satysfakcja nie do opisania,
+1537-metrowy szczyt osiągnięty! Na górze spotykamy Holendra, który robi nam
+fotkę, my również odwdzięczamy się fotką (miał aparat z zepsutym wyświetlaczem,
+więc nie wiemy, czy wychodzi ;)
+
+Po posiłku zjeżdżamy do Alt St. Johann, gdzie nocujemy, uprzednio robiąc dość
+duże zakupy.
+
+To był najcięższy dzień z całej podróży, jednocześnie wynagrodzeni zostaliśmy
+najpiękniejszymi widokami!
+
+<a href="./images/bodensee/08_02.jpg"><img src="./images/bodensee/08_02_thumb.jpg" class="left" /></a>
+<a href="./images/bodensee/08_03.jpg"><img src="./images/bodensee/08_03_thumb.jpg" class="left" /></a>
+<a href="./images/bodensee/08_04.jpg"><img src="./images/bodensee/08_04_thumb.jpg" class="left" /></a>
+
+### dzień 7
+Postanawiamy zahaczyć o Liechtenstein, jesteśmy przecież tak blisko! Wszystko tutaj
+jest blisko, jeziora, Alpy, Niemcy, Szwajcaria, Austria, Liechtenstein, wydaje się,
+że jesteśmy w jakimś cudownym punkcie, z którego w chwilę można dojechać gdzie
+tylko chcemy!
+
+Zjazd do Vaduz, stolicy Liechtensteinu mija raz-dwa, w malutkim mieście spędzamy
+2-3 godziny, odwiedzając górujący nad nim zamek, siedzibę rodziny królewskiej
+rodziny.
 
 ## Powrót nad jezioro
 
