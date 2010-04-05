@@ -11,7 +11,15 @@ task :regenerate do
   puts `jekyll`
 end
 
+desc "Clear generated HTML"
+task :clear_html do
+  FileUtils.rm_rf("_site")
+end
+
+desc "Clear generated HTML and regenerate"
+task :regenerate_full => [:clear_html, :regenerate]
+
 desc "Deploy latest version to sezam server"
-task :deploy => [:regenerate] do
+task :deploy => [:regenerate_full] do
   puts `rsync -avr _site/* sezam:public_html/bicyklem.pl`
 end
