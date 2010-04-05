@@ -16,6 +16,7 @@ h1, h2, h3 {
   border-left: 25px solid #526583;
   padding-left: 10px;
   padding-top: 3px;
+  clear: both;
 }
 
 h2 a {

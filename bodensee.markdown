@@ -12,7 +12,7 @@ odwiedziliśmy Pragę i Monachium. W drodze powrotnej w Monachium zatrzymaliśmy
 się dłużej (dziękujemy mamie Janusza za gościnę i poświęcony czas!) i
 odpoczęliśmy trochę przed powrotem do Krakowa.
 
-### dzień 1 (3 września)
+### dzień 1
 Wycieczkę rozpoczęliśmy od solidnego wypoczynku :-) Przyjechaliśmy do Lindau
 późnym popołudniem, zmęczeni podróżą popedałowaliśmy szybko w kierunku
 pobliskiego Bregenz (blisko, ale już w Austrii!) znajdując po drodze kemping gdzie
@@ -20,17 +20,18 @@ zameldowaliśmy się na kempingu i spędziliśmy pierwszą, pogodną noc pod nam
 
 ## Szwajcaria
 
-### dzień 2 (4 września)
+### dzień 2
 Drugiego dnia wróciliśmy do Lindau, poświęciliśmy pół godziny na pobyt na przystani i
-fotografie i zaczęliśmy podróż wokół jeziora. Pedałowanie szło sprawnie, mimo
-sporej wagi rowerów jechaliśmy jak na amatorów dość szybko -- trasa wokół
-jeziora była przyjemna i lekka. Dopedałowaliśmy zdaje się do Uberlingen, gdzie
-rozbiliśmy się aby przenocować, wcześniej spowolnił nas trochę dość mocny
-deszcz.
+fotografie i zaczęliśmy podróż wokół jeziora.
+<a href="./images/bodensee/04_01.jpg"><img src="./images/bodensee/04_01_thumb.jpg" class="right" /></a>
+Pedałowanie szło sprawnie, mimo sporej wagi rowerów jechaliśmy jak na amatorów dość
+szybko -- trasa wokół jeziora była przyjemna i lekka. Dopedałowaliśmy zdaje się do
+Uberlingen, gdzie rozbiliśmy się aby przenocować, wcześniej spowolnił nas trochę dość
+mocny deszcz.
 
-### dzień 3 (5 września)
+### dzień 3
 <a href="./images/bodensee/05_01.jpg"><img src="./images/bodensee/05_01_thumb.jpg" class="left" /></a>
-Ładna Konstancja była chyba najciekawszym punktem czwartego dnia, miasto
+Ładna Konstancja była chyba najciekawszym punktem trzeciego dnia, miasto
 położone nad jeziorem na granicy niemiecko--szwajcarskiej było dość duże, świetna
 pogoda, która nas nie opuszczała dodawała energii (nie mniej niż obiad nad rzeką),
 ścieżki rowerowe były z nami przez cały czas, słowem: jechać nie umierać!
@@ -40,7 +41,8 @@ w stronę Winterthuru, żeby następnie udać się do Zurychu, który wydał nam
 bardzo fajnym miejscem do zobaczenia.  Dotarliśmy do Eschenz, gdzie w bardzo ładnie
 położonym kempingu i przy pięknej pogodzie przenocowaliśmy.
 
-### dzień 4 (6 września)
+### dzień 4
+<a href="./images/bodensee/06_01.jpg"><img src="./images/bodensee/06_01_thumb.jpg" class="right" /></a>
 Cel: Zurych! Wypoczęci i w dobrych nastrojach, bo powitani słonecznym porankiem,
 wyruszyliśmy na podbój Zurychu :-) Szybko na zachód do Schaffhausen, i na
 południe przez Winterthur do punktu docelowego. Wszyscy byli chyba zadowoleni w
@@ -52,6 +54,7 @@ W mieście spędziliśmy około 2 godzin, chyba za krótko jak na widoki jakie t
 zastaliśmy; malowniczo położony Zurych tętnił życiem, główne ulice zalane
 turystami, nad jeziorem różnego rodzaju rozrywki (cyrkowcy, wesołe miasteczka i
 wata cukrowa ;d) przyciągały masę ludzi, poczuliśmy cywilizację.
+<a href="./images/bodensee/06_02.jpg"><img src="./images/bodensee/06_02_thumb.jpg" class="left" /></a>
 
 Po odpoczynku wyruszyliśmy dalej południową częścią jeziora pewni, że znajdziemy
 kemping. Nic bardziej mylnego, ta decyzja kosztowała nas przeprawę promem na
