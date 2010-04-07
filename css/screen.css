@@ -50,7 +50,7 @@ img {
 }
 
 #main {
-  margin-right: 275px;
+  margin-right: 300px;
   margin-left: 25px;
 }
 
@@ -65,12 +65,12 @@ img {
   list-style-type: none;
   font-weight: bold;
   font-variant: small-caps;
-  padding-left: 25px;
+  padding-left: 20px;
 }
 
 #menu li a {
   padding-top: 6px;
-  font-size: 1.5em;
+  font-size: 1.4em;
   display: block;
 }
 
