@@ -63,7 +63,7 @@ img {
 }
 
 #contentcolumn {
-  margin-right: 300px;
+  margin-right: 325px;
 }
 
 #menu {
@@ -88,8 +88,8 @@ img {
 
 #sidebar {
   float: left;
-  width: 300px;
-  margin-left: -305px;
+  width: 325px;
+  margin-left: -330px;
   border-left: 1px solid #999;
 }
 
@@ -97,8 +97,15 @@ img {
   padding-left: 15px;
 }
 
-#sidebar > ul > li {
-  padding-top: 15px;
+#sidebar .innertube > ul > li {
+  margin-top: 20px;
+  font-weight: bold;
+  font-size: 1.2em;
+  list-style-type: none;
+}
+
+#sidebar img {
+  margin-left: 0px;
 }
 
 #footer {

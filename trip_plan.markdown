@@ -2,8 +2,11 @@
 layout: default
 title: Plan wycieczki
 ---
-## Format wyprawy
 
+## Zapowiedź
+Dlaczego Islandia?
+
+## Format wyprawy
 * **Czas**: 3 tygodnie
 * **Noclegi**: pod namiotem
 * **Ilość uczestników**: 3
@@ -13,7 +16,6 @@ Wylatujemy z Berlina **30 kwietnia 2010**. Do Berlina dotrzemy przez Szczecin
 zatrzymując się na chwilę u rodziny Marcina, kudos!
 
 ## Trasa
-
 Trasa zaplanowana trochę "palcem po mapie" i ciągle zmieniana, ale na pewno przybliża to, co chcemy zrealizować.
 Łączną długość wyestymowaliśmy na około **1800km**.
 
