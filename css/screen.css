@@ -1,6 +1,9 @@
 body {
   background: url('../images/menu.jpg') no-repeat;
   font-family: 'Palatino';
+  margin: 0;
+  padding: 0;
+  line-height: 1.5em;
 }
 
 a {
@@ -49,9 +52,18 @@ img {
   margin: 0 10px 0 10px;
 }
 
-#main {
+.innertube {
+  margin: 20px;
+  margin-top: 0px;
+}
+
+#contentwrapper {
+  float: left;
+  width: 100%;
+}
+
+#contentcolumn {
   margin-right: 300px;
-  margin-left: 25px;
 }
 
 #menu {
@@ -75,14 +87,22 @@ img {
 }
 
 #sidebar {
-  float: right;
+  float: left;
+  width: 300px;
+  margin-left: -305px;
   border-left: 1px solid #999;
-  width: 250px;
-  min-height: 100%;
-  padding: 10px;
+}
+
+#sidebar ul {
+  padding-left: 15px;
+}
+
+#sidebar > ul > li {
+  padding-top: 15px;
 }
 
 #footer {
+  clear: left;
   text-align: center;
   border-top: 1px solid #999;
   margin: 50px auto 10px auto;
