@@ -4,9 +4,14 @@ title: Plan wycieczki
 ---
 
 ## Zapowiedź
-Dlaczego Islandia? Pomysł powstał kilka miesięcy temu, po wycieczce nad jezioro
-Bodeńskie. Postanowiliśmy odwiedzić bardziej odludne miejsce, zrobić użytek z
-rowerów _nomen-omen_ górskich (ścieżki rowerowe w Szwajcarii są aż za dobre ;-).
+Jesteśmy trójką studentów V roku Informatyki AGH. Jakiś czas temu w głowach
+zrodziła się mysł, by pojeźdźić razem na rowerach. Udało się zorganizować
+wycieczkę nad jezioro Bodeńskie, która chyba się udała, bo zachciało się nam
+powtórki.
+
+Dlaczego Islandia? Pomysł powstał kilka miesięcy temu, po wspomnianej wycieczce.
+Postanowiliśmy odwiedzić bardziej odludne miejsce, zrobić użytek z rowerów
+_nomen-omen_ górskich (ścieżki rowerowe w Szwajcarii są aż za dobre ;-).
 Zaczęliśmy się zastanawiać nad krajami nordyckimi, wjazdem na norweski Nordkapp
 ale ostatecznie padło na Islandię. Z odludnym _interiorem_, niełatwymi warunkami
 pogodowymi stanowi dla nas wyzwanie.  Z drugiej strony: gejzery, wodospady,
