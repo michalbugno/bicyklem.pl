@@ -5,7 +5,7 @@ title: Plan wycieczki
 
 ## Zapowiedź
 Jesteśmy trójką studentów V roku Informatyki AGH. Jakiś czas temu w głowach
-zrodziła się mysł, by pojeźdźić razem na rowerach. Udało się zorganizować
+zrodziła się mysł, by pojeździć razem na rowerach. Udało się zorganizować
 wycieczkę nad jezioro Bodeńskie, która chyba się udała, bo zachciało się nam
 powtórki.
 
