@@ -53,7 +53,7 @@ img {
 }
 
 .innertube {
-  margin: 20px;
+  margin: 30px;
   margin-top: 0px;
 }
 
@@ -94,11 +94,12 @@ img {
 }
 
 #sidebar ul {
-  padding-left: 15px;
+  padding-left: 5px;
 }
 
 #sidebar .innertube > ul > li {
   margin-top: 20px;
+  padding-left: 0;
   font-weight: bold;
   font-size: 1.2em;
   list-style-type: none;
