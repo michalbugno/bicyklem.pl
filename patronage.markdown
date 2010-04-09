@@ -3,9 +3,9 @@ layout: default
 title: Patronat
 ---
 
-Dziękujemy za objęcie patronatu następującym serwisom:
+Dziękujemy za objęcie patronatu nad wyprawą następującym serwisom:
 
-## [bikefama.pl](http://bikefama.pl/)
-<img src="./images/patronage/bike_fama_150.jpg" />
+## [BikeFama.pl](http://bikefama.pl/)
+<a href="http://bikefama.pl/"><img src="./images/patronage/bike_fama_150.jpg" /></a>
 
 ## [mtbikes.pl](http://mtbikes.pl/)

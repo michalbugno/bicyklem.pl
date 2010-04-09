@@ -4,7 +4,19 @@ title: Plan wycieczki
 ---
 
 ## Zapowiedź
-Dlaczego Islandia?
+Dlaczego Islandia? Pomysł powstał kilka miesięcy temu, po wycieczce nad jezioro
+Bodeńskie. Postanowiliśmy odwiedzić bardziej odludne miejsce, zrobić użytek z
+rowerów _nomen-omen_ górskich (ścieżki rowerowe w Szwajcarii są aż za dobre ;-).
+Zaczęliśmy się zastanawiać nad krajami nordyckimi, wjazdem na norweski Nordkapp
+ale ostatecznie padło na Islandię. Z odludnym _interiorem_, niełatwymi warunkami
+pogodowymi stanowi dla nas wyzwanie.  Z drugiej strony: gejzery, wodospady,
+wulkany -- niecodzienne widoki i piękne krajobrazy powinny wynagrodzić trud
+podróży :-)
+
+To wszystko czyni Islandię bardzo atrakcyjnym celem dla rowerzystów o czym
+świadczy dość duża ilość organizowanych amatorsko wycieczek w to miejsce. Trzy
+tygodnie spędzone tam będą, mamy nadzieję, niezapomnianą przygodą z lekką dozą
+survivalu.
 
 ## Format wyprawy
 * **Czas**: 3 tygodnie
@@ -12,12 +24,13 @@ Dlaczego Islandia?
 * **Ilość uczestników**: 3
 
 ## Wylot
-Wylatujemy z Berlina **30 kwietnia 2010**. Do Berlina dotrzemy przez Szczecin
-zatrzymując się na chwilę u rodziny Marcina, kudos!
+Wylatujemy z Berlina **30 kwietnia 2010**. Do Berlina dotrzemy pociągiem przez
+Szczecin.
 
 ## Trasa
-Trasa zaplanowana trochę "palcem po mapie" i ciągle zmieniana, ale na pewno przybliża to, co chcemy zrealizować.
-Łączną długość wyestymowaliśmy na około **1800km**.
+Trasa zaplanowana trochę "palcem po mapie" i ciągle zmieniana, ale na pewno
+przybliża to, co chcemy zrealizować.  Łączną długość wyestymowaliśmy na około
+**1800km**.
 
 <div>
 <!-- <object width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" data="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=pl&amp;msa=0&amp;msid=114508869251861488154.0004837bd750e44d9d7ab&amp;ll=65.476508,-18.566895&amp;spn=3.012124,10.089701&amp;output=embed"></object> -->
@@ -32,8 +45,8 @@ Trasa zaplanowana trochę "palcem po mapie" i ciągle zmieniana, ale na pewno pr
 
 ## Points of Interest
 Nie chcemy tradycyjnie objechać Islandii, w zamian mamy nadzieję na odwiedzenie
-ciekawych miejsc, walkę z _interiorem_, słowem troszkę survivalu! Punkty,
-które planujemy odwiedzić:
+ciekawych miejsc, walkę z _interiorem_, słowem troszkę survivalu! Punkty, które
+planujemy odwiedzić:
 
  * **Reykjavik** -- siłą rzeczy, tam przylatujemy
  * **Blue Lagoon** -- kąpiele geotermalne

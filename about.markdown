@@ -11,10 +11,6 @@ Rok temu wybraliśmy się (w nieco innym składzie) na rowerową wycieczkę dook
 jeziora Bodeńskiego. Wyprawa udała się na tyle, że w tym roku postanowiliśmy powtórzyć
 przygodę - tym razem w bardziej wymagającym miejscu.
 
-Wybór padł na Islandię, kraj intrygujący i zupełnie inny od znanych nam
-europejskich krajów -- surowy klimat, wymagające warunki pogodowe wynagradzają
-niespotykane atrakcje: liczne wodospady, gejzery i piękne krajobrazy.
-
 ## Uczestnicy wyprawy
 Każdy z nas trzy słowa o sobie:
 
