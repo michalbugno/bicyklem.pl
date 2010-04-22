@@ -12,12 +12,12 @@ task :regenerate do
 end
 
 desc "Clear generated HTML"
-task :clear_html do
+task :clear do
   FileUtils.rm_rf("_site")
 end
 
 desc "Clear generated HTML and regenerate"
-task :regenerate_full => [:clear_html, :regenerate]
+task :regenerate_full => [:clear, :regenerate]
 
 desc "Deploy latest version to sezam server"
 task :deploy => [:regenerate_full] do

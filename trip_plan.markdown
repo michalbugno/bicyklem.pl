@@ -23,6 +23,9 @@ To wszystko czyni Islandię bardzo atrakcyjnym celem dla rowerzystów o czym
 tygodnie spędzone tam będą, mamy nadzieję, niezapomnianą przygodą z lekką dozą
 survivalu.
 
+Last but not least: dziękujemy sklepowi [SzumGum.com](http://szumgum.com/) za
+udzielenie rabatu na zakupiony sprzęt rowerowy!
+
 ## Format wyprawy
 * **Czas**: 3 tygodnie
 * **Noclegi**: pod namiotem

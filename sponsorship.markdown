@@ -3,6 +3,11 @@ layout: default
 title: Sponsorzy
 ---
 
+## [SzumGum.com](http://szumgum.com/)
+<a href="http://www.szumgum.com/" title="Internetowy Sklep Rowerowy"><img src="http://www.szumgum.com/banery/ok/468x60.gif" alt="Rower"></a>
+Sklep SzumGum zaoferował nam atrakcyjny rabat na niezbędny sprzęt rowerowy --
+sakwy, bagażniki itp
+
 ## Sponsoring
 Jeśli masz możliwość zasponsorowania nas, prowadzisz sklep ze sprzętem rowerowym
 lub wycieczkowym, chętnie przyjmiemy Twoją pomoc ;-) Wyprawa jest dość kosztowna
