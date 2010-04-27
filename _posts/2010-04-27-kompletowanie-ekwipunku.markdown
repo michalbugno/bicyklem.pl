@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kompletowanie ekwipunku
+title: Kompletowanie ekwipunku i RSS
 author: msq
 ---
 
@@ -14,3 +14,6 @@ jeszcze raz listy rzeczy _do zabrania_.
 Wydatki pojawiają się znienacka -- a to zapasowa opona, a to wór wyprawowy i
 spodnie. Suma-sumarum koszty są dość duże, pocieszające, że większość z tych
 rzeczy posłuży w następnych wyprawach, nie tylko rowerowych (oby :).
+
+UPDATE: dodaliśmy na stronę feed rss, tak na wszelki wypadek, jakby ktoś to
+czytał.
