@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Lądowanie.
-author: M M F
+title: Lądowanie
+author: msq, fost, bed
 ---
 Przylot około 12 w nocy. Temperatura około 2 stopni.
  
