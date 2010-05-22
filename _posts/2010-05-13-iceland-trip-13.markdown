@@ -3,7 +3,7 @@ layout: post
 title: Wiatr na trasie do Djupivogur
 author: msq
 ---
-<a href="/images/news/miejscowa_01.jpg"><img src="/images/news/miejscowa_01_thumb.png" class="left" /></a>
+<a href="/images/news/miejscowa_01.jpg"><img src="/images/news/miejscowa_01_thumb.jpg" class="left" /></a>
 
 Zmuszeni warunkami wstajemy wcześnie. Oglądamy skalisty, stromy brzeg, nieopodal którego biwakowaliśmy i o 11.30 wyruszamy. Przed nami kolejna dawka fiordów, okazuje się jednak ze już nie tak ładnych, a możne to tylko bardzo mocny i porywisty wiatr, który skutecznie uprzykrza jazdę. 
 
