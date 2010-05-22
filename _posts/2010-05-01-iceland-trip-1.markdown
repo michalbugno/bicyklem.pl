@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pierwszy dzień na rowerach.
+title: Pierwszy dzień na rowerach
 author: msq
 ---
 Pobudka o 10. Pogoda dość dobra; zimno, ale nie pada.
