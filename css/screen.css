@@ -21,6 +21,8 @@ h1, h2, h3 {
   padding-left: 10px;
   padding-top: 3px;
   clear: both;
+  margin-top: 25px;
+  margin-bottom: 5px;
 }
 
 h2 a {
