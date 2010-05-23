@@ -87,21 +87,21 @@ truskawkowego czy gruszkowego sycącego napoju nie są wygórowane.
 
 Przejdźmy do sedna, czyli
 
-### Baton
- * *baton* to podstawowe źródło energii na rowerze
- * zawsze pamiętaj żeby mieć dostatek *baton*
- * *jeden baton* to zbyt mało na jeden dzień, chociaż i tak jest to znaczna
-   przewaga nad brakiem *baton*
- * trzymaj *baton* w ciepłym miejscu na 30 minut przed zjedzeniem (np. w
-   kieszeni koszulki), będzie wtedy smaczniejszy niż twardy, zimny *baton* z
+### Baton&reg;
+ * *baton&reg;* to podstawowe źródło energii na rowerze
+ * zawsze pamiętaj żeby mieć dostatek *baton&reg;*
+ * *jeden baton&reg;* to zbyt mało na jeden dzień, chociaż i tak jest to znaczna
+   przewaga nad brakiem *baton&reg;*
+ * trzymaj *baton&reg;* w ciepłym miejscu na 30 minut przed zjedzeniem (np. w
+   kieszeni koszulki), będzie wtedy smaczniejszy niż twardy, zimny *baton&reg;* z
    sakwy
- * jeśli masz więcej *baton*, nie ulegaj pokusie zjadania zbyt szybko, jedz
-   *baton* równomiernie, racjonuj go bo 1 *baton* codziennie przez trzy dni to
-   dużo więcej niż 3 *baton* w jeden dzień a potem 0 *baton* przez 2 dni
- * przykładowe *baton*: Snickers, Mars, Twix, Lion, Kit-Kat, Prince Polo
+ * jeśli masz więcej *baton&reg;*, nie ulegaj pokusie zjadania zbyt szybko, jedz
+   *baton&reg;* równomiernie, racjonuj go bo 1 *baton&reg;* codziennie przez trzy dni to
+   dużo więcej niż 3 *baton&reg;* w jeden dzień a potem 0 *baton&reg;* przez 2 dni
+ * przykładowe *baton&reg;*: Snickers, Mars, Twix, Lion, Kit-Kat, Prince Polo
 
 ### Dodatki
-Przyjemne urozmaicenie dla *baton* to:
+Przyjemne urozmaicenie dla *baton&reg;* to:
  * kandyzowane owoce (polecamy!)
  * migdały
  * rodzynki
