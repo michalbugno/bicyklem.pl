@@ -151,5 +151,7 @@ samochód kosztował **25,000**, opłata za oddanie w innej placówce niż wynaj
 ### Samolot
 Wydawałoby się, że to droga alternatywa - wcale nie! Za lot **450km** z rowerem
 trzeba zapłacić **11,200**, dla porównania samochód wyszedłby około **17,000**,
-autobus na tym samym odcinku w granicach **12,500-13,500* (nie pamiętamy
-dokładnie).
+autobus na tym samym odcinku w granicach **12,500-13,500** (nie pamiętamy
+dokładnie). Dodatkowo fajna atrakcja bo samolot jest mniejszy niż normalne
+samoloty latające między państwami (50 miejsc), ma śmigła a nie silniki
+odrzutowe, inny klimat :-)
