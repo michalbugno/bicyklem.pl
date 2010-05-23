@@ -1,6 +1,7 @@
 ---
 layout: day_report
 day: 1
+title: Þingvellir
 distance: 55.58
 time_hours: 3
 time_minutes: 37

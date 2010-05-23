@@ -1,6 +1,7 @@
 ---
 layout: day_report
 day: 2
+title: Geysir
 distance: 64.21
 time_hours: 4
 time_minutes: 41
