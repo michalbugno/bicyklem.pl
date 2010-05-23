@@ -62,7 +62,7 @@ Dla jasności, **1000 koron** to mniej więcej **24 złote**.
    * papryka: **760 / kg**
    * kefir 1l: **170**
    * baton *Snickers*: **120**
-   * krakery *Ritz* 200g: **150**
+   * krakersy *Ritz* 200g: **150**
  * *Vínbúð* (alkoholowe)
    * Viking Lager: **250**
    * Viking Gylltur: **350**

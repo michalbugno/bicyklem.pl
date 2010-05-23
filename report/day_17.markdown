@@ -1,0 +1,15 @@
+---
+layout: day_report
+day: 17
+title: Akureyri
+distance: 7.51
+time_hours: 3
+time_minutes: 29
+elevation_gain: 86
+elevation_loss: 76
+avg_moving_speed: 2.2
+max_speed: 7.0
+---
+
+Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum.
+Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum.
