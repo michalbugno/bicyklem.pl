@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: report
 title: Relacja
 ---
 

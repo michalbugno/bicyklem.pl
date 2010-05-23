@@ -33,6 +33,10 @@ ul li, ol li {
   list-style-type: square;
 }
 
+ul ul li, ol ol li {
+  list-style-type: circle;
+}
+
 .clear {
   clear: both;
 }
@@ -89,6 +93,14 @@ img {
   padding-top: 6px;
   font-size: 1.4em;
   display: block;
+}
+
+#submenu {
+  clear: both;
+}
+
+#submenu li a {
+  font-size: 1.0em;
 }
 
 #sidebar {
