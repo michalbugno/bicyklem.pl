@@ -72,6 +72,7 @@ Dla jasności, **1000 koron** to mniej więcej **24 złote**.
    * tylne koło rowerowe (obręcz, piasta, szprychy): **10,000**
    * 4 baterie alkaiczne: **600**
    * autobus z *Jökulsárlón* do *Höfn* z rowerem: **3,300**
+   * benzyna: około **200-220 / l**
 
 ## Jedzenie
 Jedzenie, jak większość rzeczy, jest na wyspie drogie. My żyliśmy z chleba, sera
@@ -112,5 +113,43 @@ Poza rowerami używaliśmy trzech innych środków transportu na Islandii
 (wszystkich możliwych chyba): samochód, samolot i autobus.
 
 ### Autobus
+Wbrew pozorom nie jest to wcale taki tani środek transportu. Za podróż 70km z
+*Jökulsárlón* do *Höfn* z rowerem trzeba zapłacić **3300**. Z kolei podróż około
+400km z Akureyri do Reykjaviku to około **12,000-13,000**.
+
+Autobus, którym jechaliśmy to mały busik na 15-20 osób. Wydaje się, że w sezonie
+jeżdżą większe, typowo wycieczkowe pojazdy (50+ osób), poza sezonem, kiedy jest
+tu bardzo mało ludzi, mały bus wystarcza, razem z nami jechał kierowca i dwie
+osoby.
+
+Rozkłady są dostępne na internecie i na stacjach benzynowych, bez problemu można
+też dodzwonić się do biur firm przewozowych i zapytać o najbliższy bus i
+wszelkie potrzebne informacje -- i tak najlepiej robić, dobrze jeśli kierowca
+autobusu wie, że ma kogoś zabrać.
+
+Komunikacja między miastami nie jest zbyt częsta poza sezonem, mniej więcej 2-3
+razy na tydzień, w sezonie jest lepiej, ale należy uważać na bardziej odludne
+rejony, bo może się okazać, że tam nie jest tak różowo (na przykład za *Akureyri*
+na wschód do *Egilsstaðir* i dalej fiordami na południowy wschód).
+
 ### Samochód
+Samochód wypożyczaliśmy raz, w firmie **Hertz**. Swoje biura mają na lotniskach
+w większych miastach, są czynni 7 dni w tygodniu i w zasadzie to na nich należy
+liczyć, mniejsze biura są nieczynne w weekendy i/lub mają mało placówek na
+wyspie.
+
+My do zapakowania trzech rowerów i sakw potrzebowaliśmy pickupa *toyota hilux*.
+Do tyłu zapakowaliśmy prawie wszystko, dało się ją zamknąć na kluczyk i nie
+trzeba było się martwić. Samochód spalił około **45 litrów paliwa** w trasie
+głównie na ring road, bez szaleńczej jazdy, na **2000-2500 obr./min** na odcinku
+około **400 km**.
+
+Za całą przyjemność, czyli samochód i paliwo zapłaciliśmy ok. **45,000**. W tym,
+samochód kosztował **25,000**, opłata za oddanie w innej placówce niż wynajęcie:
+**9,000**, benzyna **10,000**.
+
 ### Samolot
+Wydawałoby się, że to droga alternatywa - wcale nie! Za lot **450km** z rowerem
+trzeba zapłacić **11,200**, dla porównania samochód wyszedłby około **17,000**,
+autobus na tym samym odcinku w granicach **12,500-13,500* (nie pamiętamy
+dokładnie).

@@ -21,5 +21,5 @@ task :regenerate_full => [:clear, :regenerate]
 
 desc "Deploy latest version to sezam server"
 task :deploy => [:regenerate_full] do
-  puts `rsync -avr _site/* sezam:public_html/bicyklem.pl`
+  puts `rsync -avr _site/* root@ostatek.pl:/var/bicyklem`
 end
