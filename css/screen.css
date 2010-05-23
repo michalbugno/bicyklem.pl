@@ -147,3 +147,18 @@ blockquote {
 abbr {
   border-bottom: 1px dotted black;
 }
+
+dl {
+  font-size: 1.1em;
+}
+
+dt {
+  float: left;
+  text-align: right;
+  margin-right: 20px;
+  width: 200px;
+}
+
+dd {
+  font-weight: bold;
+}

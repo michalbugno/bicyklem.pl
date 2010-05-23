@@ -2,7 +2,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
   <head>
-    <title>Islandia bicyklem: wycieczka rowerowa na Islandię w maju 2010 &raquo; {{ page.title }}</title>
+    <title>Islandia bicyklem: wycieczka rowerowa na Islandię w maju 2010 &raquo; Relacja &raquo; Dzień {{ page.day }}</title>
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta http-equiv="cache-control" content="no-cache">
     <meta name="author" content="Michał Bugno" />
@@ -52,6 +52,21 @@
       <div id="contentwrapper">
         <div id="contentcolumn">
           <div class="innertube">
+            <h2>Dzień {{ page.day }}</h2>
+            <dl>
+              <dt>dystans</dt>
+              <dd>{{ page.distance }} km</dd>
+              <dt>czas jazdy</dt>
+              <dd>{{ page.time_hours }}:{{ page.time_minutes }} h</dd>
+              <dt>podjazd</dt>
+              <dd>{{ page.elevation_gain }} m</dd>
+              <dt>zjazd</dt>
+              <dd>{{ page.elevation_loss }} m</dd>
+              <dt>prędkość średnia</dt>
+              <dd>{{ page.avg_moving_speed }} km/h</dd>
+              <dt>prędkość maksymalna</dt>
+              <dd>{{ page.max_speed }} km/h</dd>
+            </dl>
             {{ content }}
           </div>
         </div>
