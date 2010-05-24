@@ -10,8 +10,8 @@ szczeliny, zagłębienia, kopce zastygłej i spękanej lawy górujące nad nami
 sprawiają, że czujemy się jak w jakiejś osadzie.
 
 Po ponad godzinie jedziemy dalej nad brzeg jeziora gdzie dają nam się we znaki
-drobne muszle od których zbiornik wziął swoją nazwę. Spacer wśród drzew
-relaksuje, mimo ze czujemy się od nich dziwnie odzwyczajeni :-)
+drobne muszki, od których zbiornik wziął swoją nazwę. Spacer wśród drzew
+relaksuje, mimo że czujemy się od nich dziwnie odzwyczajeni :-)
 
 Zahaczamy jeszcze o obszar pseudo kraterów, które powstały w wyniku lawy
 wylewającej się na podmokłe tereny. Z bliska te zagłębienia nie wyglądają tak
