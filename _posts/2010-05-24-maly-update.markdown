@@ -12,4 +12,6 @@ Na zdjęcia i relację trzeba jeszcze poczekać, tak jak zapowiedzieliśmy
 powinniśmy uwinąć się do pierwszych dni czerwca. Trzymajcie "oko i ucho na
 pulsie" :-)
 
-*Edit 25.05.2010, 10:21*: na stronie z informacjami kolejne małe zmiany.
+ * *Edit 25.05.2010, 10:21*: na stronie z informacjami kolejne małe zmiany.
+ * *Edit 25.05.2010, 13:07*: dodany brakujący dzień pierwszy z Kefalviku do
+   Reykjaviku.
