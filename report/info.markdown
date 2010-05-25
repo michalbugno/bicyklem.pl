@@ -11,10 +11,11 @@ Nasza wycieczka z założenia była namiotowo--hostelowa, na noclegu chcieliśmy
 raczej oszczędzać. Sytuacja przedstawia się tak, że za noclegi pod namiotem nie
 płaciliśmy ani razu, ze względu na to że nie nocowaliśmy na żadnym polu
 namiotowym, tylko w losowych w miarę wygodnych miejscach (no, nie do końca to
-prawda, rozbiliśmy się na jednym polu nad jeziorem *Mývatn*, ale było nieczynne,
-więc nie mieliśmy komu zapłacić, skorzystaliśmy po prostu z wygodnego gruntu).
+prawda, rozbiliśmy się na <strike>jednym polu nad jeziorem *Mývatn*</strike>
+dwóch polach, w *Þingvellir* oraz *Mývatn*, ale były nieczynne, więc nie mieliśmy
+komu zapłacić, skorzystaliśmy po prostu z wygodnego gruntu).
 
-Z kolei noclegi pod dachem kosztowały w granicach **2800-3700** za osobę. Bywały
+Z kolei noclegi pod dachem kosztowały w granicach **2800-4000** za osobę. Bywały
 to różne miejsca, małe chatki z prysznicem czasem wewnątrz, czasem wspólnym dla
 4-5 chatek. Bywało, że kwaterowaliśmy się za **3300** w całym domu, który był
 wypożyczany turystom, ale poza sezonem stał pusty i za niską cenę był
@@ -68,6 +69,7 @@ Dla jasności, **1000 koron** to mniej więcej **24 złote**.
    * Viking Gylltur: **350**
  * inne
    * gaz do kuchenek 225g na stacji benzynowej: **1000**
+   * piwo lane w kawiarence/lokalnym sklepie: **850-1100**
    * kaseta rowerowa: **3400**
    * tylne koło rowerowe (obręcz, piasta, szprychy): **10,000**
    * 4 baterie alkaiczne: **600**
@@ -81,9 +83,18 @@ Jedzenie, jak większość rzeczy, jest na wyspie drogie. My żyliśmy z chleba,
 gazie do kuchenek, który można dostać w miarę bezproblemowo. Najczęściej zupki
 chińskie, zupki w kubku, kaszę *cous-cous*, kisiel.
 
+**Gaz turystyczny był dostępny w systemie *Primus*, czyli na gwint! System
+*Campingaz* widzieliśmy tylko raz w Akureyri, jeśli masz zamiar korzystać z gazu
+to decyduj się na palniki w tym pierwszym systemie.**
+
 Dobre na śniadanie czy kolację były wszelkiego rodzaju lokalne produkty mleczne
 jak jogurty i kefiry smakowe, ceny w granicach **100-300** za kartonik smacznej
 truskawkowego czy gruszkowego sycącego napoju nie są wygórowane.
+
+Sklepy alkoholowe *Vínbúð*, jedyne miejsce, gdzie można kupić alkohol *na wynos*
+są otwarte tylko do **18:00**! Pamiętaj o tym planując napić się piwa wieczorem
+w hostelu :-) Jeśli zapomnisz, zostaje Ci piwo 2.25%, albo dużo droższe i *tylko
+na miejscu* w lokalnym sklepie.
 
 Przejdźmy do sedna, czyli
 
@@ -112,6 +123,22 @@ Przyjemne urozmaicenie dla *baton&reg;* to:
 Poza rowerami używaliśmy trzech innych środków transportu na Islandii
 (wszystkich możliwych chyba): samochód, samolot i autobus.
 
+### Rower
+Przemieszczanie się po wyspie rowerem główną drogą jest bardzo wygodne. Mówimy
+tu o kulturze kierowców, którzy bardzo uważają na rowerzystów - mimo wszystko
+nasze trzy zapakowane mocno rowery budziły respekt. Ruch jest bardzo mały, choć
+należy wspomnieć o dwóch rzeczach. Po pierwsze byliśmy poza sezonem, po drugie
+odcinek *Keflavik -- Reykjavik** jest dość nieprzyjemny bo jeździ nim dużo
+samochodów i jeżdżą bardzo szybko.
+
+Rowerów poza Reykjavikiem nie zapinaliśmy zapięciami ani raz. Wszystkie rowery
+jakie widzieliśmy (miejscowe) też były nie zapinane, więc doszliśmy do wniosku,
+że nie ma się co bawić. Przetrwały m.in. kilkugodzinny pobyt przed wejściem do
+*Blue Lagoon* spięte tylko za przednie koła, z sakwami dostępnymi dla każdego -
+nic nie zginęło. Zostawialiśmy je przy wodospadzie *Gullfoss* tracąc je z
+zasięgu wzroku, także nic się nie działo. Tu też należy wspomnieć, że byliśmy
+poza sezonem.
+
 ### Autobus
 Wbrew pozorom nie jest to wcale taki tani środek transportu. Za podróż 70km z
 *Jökulsárlón* do *Höfn* z rowerem trzeba zapłacić **3300**. Z kolei podróż około
@@ -122,7 +149,7 @@ jeżdżą większe, typowo wycieczkowe pojazdy (50+ osób), poza sezonem, kiedy 
 tu bardzo mało ludzi, mały bus wystarcza, razem z nami jechał kierowca i dwie
 osoby.
 
-Rozkłady są dostępne na internecie i na stacjach benzynowych, bez problemu można
+Rozkłady są dostępne w internecie i na stacjach benzynowych, bez problemu można
 też dodzwonić się do biur firm przewozowych i zapytać o najbliższy bus i
 wszelkie potrzebne informacje -- i tak najlepiej robić, dobrze jeśli kierowca
 autobusu wie, że ma kogoś zabrać.
@@ -152,6 +179,12 @@ samochód kosztował **25,000**, opłata za oddanie w innej placówce niż wynaj
 Wydawałoby się, że to droga alternatywa - wcale nie! Za lot **450km** z rowerem
 trzeba zapłacić **11,200**, dla porównania samochód wyszedłby około **17,000**,
 autobus na tym samym odcinku w granicach **12,500-13,500** (nie pamiętamy
-dokładnie). Dodatkowo fajna atrakcja bo samolot jest mniejszy niż normalne
-samoloty latające między państwami (50 miejsc), ma śmigła a nie silniki
-odrzutowe, inny klimat :-)
+dokładnie). Dodatkowo jest to fajna atrakcja bo samolot to nie ogromny odrzutowiec
+a mały, 50-miejscowy [Fokker 50](http://en.wikipedia.org/wiki/Fokker_50) z napędem
+śmigłowym.
+
+**Ważna informacja. Nie mieliśmy aboslutnie żadnych problemów z transportem
+rowerów, tak przy lotach na i z wyspy jak i wewnętrznych. Również bagaże były
+bezproblemowo przyjmowane, mimo, że troszkę przekraczaliśmy dozwoloną wagę.
+Wszystko było bardzo sprawnie obsługiwane i check-in trwał niewiele dłużej niż u
+normalnej osoby.**

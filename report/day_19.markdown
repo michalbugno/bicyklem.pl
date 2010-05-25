@@ -2,7 +2,7 @@
 layout: day_report
 day: 19
 title: Blue Lagoon
-distance: 101,24
+distance: 101.24
 time_hours: 6
 time_minutes: 57
 elevation_gain: 1,026
