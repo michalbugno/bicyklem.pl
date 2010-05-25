@@ -1,14 +1,14 @@
 ---
 layout: day_report
 day: 13
-title: Przełęcz Oxi
-distance: 48.01
-time_hours: 4
-time_minutes: 17
-elevation_gain: 886
-elevation_loss: 750
-avg_moving_speed: 11.2
-max_speed: 43.2
+title: Djúpivogur
+distance: 46.18
+time_hours: 3
+time_minutes: 09
+elevation_gain: 444
+elevation_loss: 487
+avg_moving_speed: 14.6
+max_speed: 37.7
 ---
 
 Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum.

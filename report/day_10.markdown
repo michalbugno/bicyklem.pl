@@ -1,14 +1,14 @@
 ---
 layout: day_report
 day: 10
-title: Jökulsárlón
-distance: (50 rowerem + 70 autobusem) 130.41
-time_hours: 3
-time_minutes: 31
-elevation_gain: 469
-elevation_loss: 534
-avg_moving_speed: 37.0
-max_speed: 112.6
+title: Kirkjubæjarklaustur
+distance: 81.56
+time_hours: 4
+time_minutes: 58
+elevation_gain: 339
+elevation_loss: 283
+avg_moving_speed: 16.4
+max_speed: 34.7
 ---
 
 Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum.

@@ -1,14 +1,14 @@
 ---
 layout: day_report
 day: 17
-title: Akureyri
-distance: 7.51
-time_hours: 3
-time_minutes: 29
-elevation_gain: 86
-elevation_loss: 76
-avg_moving_speed: 2.2
-max_speed: 7.0
+title: Mývatn
+distance: 175.28
+time_hours: 2
+time_minutes: 35
+elevation_gain: 1,072
+elevation_loss: 1,362
+avg_moving_speed: 67.4
+max_speed: 115.4
 ---
 
 Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum.

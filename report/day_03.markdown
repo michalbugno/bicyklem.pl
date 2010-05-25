@@ -1,14 +1,14 @@
 ---
 layout: day_report
 day: 3
-title: Gullfoss
-distance: 76.11
-time_hours: 5
-time_minutes: 20
-elevation_gain: 615
-elevation_loss: 599
-avg_moving_speed: 14.2
-max_speed: 40.5
+title: Geysir
+distance: 64.21
+time_hours: 4
+time_minutes: 41
+elevation_gain: 646
+elevation_loss: 581
+avg_moving_speed: 13.7
+max_speed: 56.2
 ---
 
 Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum.

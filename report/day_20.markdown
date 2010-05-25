@@ -1,14 +1,14 @@
 ---
 layout: day_report
 day: 20
-title: Powrót
-distance: ~2700
-time_hours: 9
-time_minutes: 16
-elevation_gain: b.d.
-elevation_loss: b.d.
-avg_moving_speed: b.d.
-max_speed: b.d.
+title: Blue Lagoon
+distance: 101.24
+time_hours: 6
+time_minutes: 57
+elevation_gain: 1,026
+elevation_loss: 1,012
+avg_moving_speed: 14.6
+max_speed: 47.0
 ---
 
 Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum.

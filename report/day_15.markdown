@@ -1,14 +1,14 @@
 ---
 layout: day_report
 day: 15
-title: b.d. (samochód)
-distance: b.d.
-time_hours: b.d.
-time_minutes: b.d.
-elevation_gain: b.d.
-elevation_loss: b.d.
-avg_moving_speed: b.d.
-max_speed: b.d.
+title: Egilsstaðir
+distance: 38.93
+time_hours: 3
+time_minutes: 48
+elevation_gain: 308
+elevation_loss: 401
+avg_moving_speed: 10.2
+max_speed: 20.2
 ---
 
 Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum.

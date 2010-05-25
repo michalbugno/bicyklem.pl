@@ -1,14 +1,14 @@
 ---
 layout: day_report
 day: 16
-title: Mývatn
-distance: 175.28
-time_hours: 2
-time_minutes: 35
-elevation_gain: 1,072
-elevation_loss: 1,362
-avg_moving_speed: 67.4
-max_speed: 115.4
+title: b.d. (samochód)
+distance: b.d.
+time_hours: b.d.
+time_minutes: b.d.
+elevation_gain: b.d.
+elevation_loss: b.d.
+avg_moving_speed: b.d.
+max_speed: b.d.
 ---
 
 Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum.

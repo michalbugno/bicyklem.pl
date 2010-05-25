@@ -1,14 +1,14 @@
 ---
 layout: day_report
-day: 12
-title: Fiordy
-distance: 66.11
-time_hours: 4
-time_minutes: 04
-elevation_gain: 472
-elevation_loss: 462
-avg_moving_speed: 16.2
-max_speed: 46.7
+day: 0
+title: Przylot
+distance: ~2700
+time_hours: b.d.
+time_minutes: b.d.
+elevation_gain: b.d.
+elevation_loss: b.d.
+avg_moving_speed: b.d.
+max_speed: b.d.
 ---
 
 Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum.

@@ -1,14 +1,14 @@
 ---
 layout: day_report
 day: 2
-title: Geysir
-distance: 64.21
-time_hours: 4
-time_minutes: 41
-elevation_gain: 646
-elevation_loss: 581
-avg_moving_speed: 13.7
-max_speed: 56.2
+title: Þingvellir
+distance: 55.58
+time_hours: 3
+time_minutes: 37
+elevation_gain: 605
+elevation_loss: 444
+avg_moving_speed: 15.3
+max_speed: 45.5
 ---
 
 Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum.

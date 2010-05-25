@@ -1,14 +1,14 @@
 ---
 layout: day_report
 day: 7
-title: Fjallabak part 4
-distance: 20.81
+title: Fjallabak part 3
+distance: 22.40
 time_hours: 5
-time_minutes: 20
-elevation_gain: 515
-elevation_loss: 682
-avg_moving_speed: 3.9
-max_speed: 11.9
+time_minutes: 17
+elevation_gain: 325
+elevation_loss: 297
+avg_moving_speed: 4.2
+max_speed: 14.5
 ---
 
 Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum.

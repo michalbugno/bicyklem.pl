@@ -1,14 +1,14 @@
 ---
 layout: day_report
 day: 19
-title: Blue Lagoon
-distance: 101.24
-time_hours: 6
-time_minutes: 57
-elevation_gain: 1,026
-elevation_loss: 1,012
-avg_moving_speed: 14.6
-max_speed: 47.0
+title: Lot do Reykjaviku
+distance: 264.63
+time_hours: 1
+time_minutes: 45
+elevation_gain: 319
+elevation_loss: 370
+avg_moving_speed: b.d.
+max_speed: b.d.
 ---
 
 Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum.

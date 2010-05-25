@@ -1,14 +1,14 @@
 ---
 layout: day_report
 day: 5
-title: Fjallabak part 2
-distance: 15.36
-time_hours: 3
-time_minutes: 23
-elevation_gain: 134
-elevation_loss: 127
-avg_moving_speed: 4.5
-max_speed: 13.2
+title: Wjazd do Fjallabak
+distance: 45.61
+time_hours: 5
+time_minutes: 12
+elevation_gain: 638
+elevation_loss: 218
+avg_moving_speed: 8.8
+max_speed: 43.2
 ---
 
 Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum.
