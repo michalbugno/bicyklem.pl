@@ -1,6 +1,6 @@
 ---
 layout: report
-title: Relacja | Informacje
+title: Relacja &raquo; Informacje
 ---
 
 Tutaj znajdziesz różne informacje, które mogą przydać się w czasie pobytu na
