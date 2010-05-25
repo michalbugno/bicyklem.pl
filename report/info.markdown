@@ -54,7 +54,7 @@ Dla jasności, **1000 koron** to mniej więcej **24 złote**.
    * 2l *Pepsi*: **180**
    * siedmiopak batonów *Snickers*: **500**
    * 200gr rodzynek w czekoladzie: **200**
-   * ser gouda w plastrach: **1500**
+   * ser gouda w plastrach: **1500 / kg**
    * paluszki: **100**
  * sieć *Netto*
    * masło 400g: **250**
