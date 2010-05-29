@@ -9,6 +9,7 @@ elevation_gain: 86
 elevation_loss: 76
 avg_moving_speed: 2.2
 max_speed: 7.0
+garmin_connect_id: 34107617
 ---
 
 Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum.

@@ -55,6 +55,10 @@
         <div id="contentcolumn">
           <div class="innertube">
             <h2>Dzień {{ page.day }} &nbsp;&nbsp;<span class="meta">{{ page.title }}</span></h2>
+
+            {{ content }}
+
+            <h3>Dane techniczne</h3>
             <dl>
               <dt>dystans</dt>
               <dd>{{ page.distance }} km</dd>
@@ -69,7 +73,9 @@
               <dt>prędkość maksymalna</dt>
               <dd>{{ page.max_speed }} km/h</dd>
             </dl>
-            {{ content }}
+
+            <h3>Garmin Connect</h3>
+            <iframe width='465' height='548' frameborder='0' src='http://connect.garmin.com:80/activity/embed/{{ page.garmin_connect_id }}'></iframe>
           </div>
         </div>
       </div>
