@@ -55,14 +55,6 @@ p {
   text-align: justify;
 }
 
-img {
-  border: 1px solid #526583;
-  -moz-border-radius: 4px;
-  -webkit-border-radius: 4px;
-  padding: 3px;
-  margin: 0 10px 0 10px;
-}
-
 .innertube {
   margin: 30px;
   margin-top: 0px;
@@ -161,4 +153,28 @@ dt {
 
 dd {
   font-weight: bold;
+}
+
+.image img {
+  border: 0;
+  -moz-border-radius: 0;
+  -webkit-border-radius: 0;
+  margin: 0;
+  padding: 0;
+}
+
+.image, img {
+  border: 1px solid #526583;
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+  padding: 3px 0px 3px 3px;
+  margin: 0 10px 0 10px;
+}
+
+.image span {
+  display: block;
+  line-height: 1.0em;
+  font-size: 0.8em;
+  width: 230px;
+  margin: 3px;
 }
