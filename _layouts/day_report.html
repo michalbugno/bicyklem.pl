@@ -58,6 +58,18 @@
 
             {{ content }}
 
+            {% if page.day < 9 %}
+              <a href="/report/day_0{{ page.day | plus:1 }}.html">Następny dzień</a>
+            {% elsif page.day < 21 %}
+              <a href="/report/day_{{ page.day | plus:1 }}.html">Następny dzień</a>
+            {% endif %}
+
+            {% if page.day > 10 %}
+              | <a href="/report/day_{{ page.day | minus:1 }}.html">Poprzedni dzień</a>
+            {% elsif page.day > 0 %}
+              | <a href="/report/day_0{{ page.day | minus:1 }}.html">Poprzedni dzień</a>
+            {% endif %}
+
             <h3>Dane techniczne</h3>
             <dl>
               <dt>dystans</dt>
@@ -74,8 +86,10 @@
               <dd>{{ page.max_speed }} km/h</dd>
             </dl>
 
-            <h3>Garmin Connect</h3>
-            <iframe width='465' height='548' frameborder='0' src='http://connect.garmin.com:80/activity/embed/{{ page.garmin_connect_id }}'></iframe>
+            {% if page.garmin_connect_id %}
+              <h3>Garmin Connect</h3>
+              <iframe width='465' height='548' frameborder='0' src='http://connect.garmin.com:80/activity/embed/{{ page.garmin_connect_id }}'></iframe>
+            {% endif %}
           </div>
         </div>
       </div>
