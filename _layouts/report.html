@@ -3,50 +3,15 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
   <head>
     <title>Islandia bicyklem: wycieczka rowerowa na Islandię w maju 2010 &raquo; {{ page.title }}</title>
-    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-    <meta http-equiv="cache-control" content="no-cache">
-    <meta name="author" content="Michał Bugno" />
-    <meta name="description" content="Strona poświęcona wycieczce rowerowej na Islandię w maju 2010." />
-    <meta name="keywords" content="rower, bicykl, rowery, bicykle, islandia, jednoślad, wodospad, gejzer, wycieczka, agh" />
-    <link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen, projection" />
-    <link href="http://feeds.feedburner.com/IslandiaBicyklem" rel="alternate" title="Islandia Bicyklem maj 2010" type="application/atom+xml" />
+    {% include headers.html %}
   </head>
   <body>
     <div id="maincontainer">
       <div id="menu">
         <div class="innertube">
           <ol>
-            <li><a href="/">Strona główna</a></li>
-            <li><a href="/trip_plan.html">Plan</a></li>
-            <li><a href="/report.html">Relacja</a></li>
-            <li><a href="/about.html">Uczestnicy</a></li>
-            <li><a href="/sponsorship.html">Sponsorzy</a></li>
-            <li><a href="/patronage.html">Patronat</a></li>
-            <ol id="submenu">
-              <li><a href="/report/day_00.html">Przylot</a></li>
-              <li><a href="/report/day_01.html">Dzień 01</a></li>
-              <li><a href="/report/day_02.html">Dzień 02</a></li>
-              <li><a href="/report/day_03.html">Dzień 03</a></li>
-              <li><a href="/report/day_04.html">Dzień 04</a></li>
-              <li><a href="/report/day_05.html">Dzień 05</a></li>
-              <li><a href="/report/day_06.html">Dzień 06</a></li>
-              <li><a href="/report/day_07.html">Dzień 07</a></li>
-              <li><a href="/report/day_08.html">Dzień 08</a></li>
-              <li><a href="/report/day_09.html">Dzień 09</a></li>
-              <li><a href="/report/day_10.html">Dzień 10</a></li>
-              <li class="clear"><a href="/report/day_11.html">Dzień 11</a></li>
-              <li><a href="/report/day_12.html">Dzień 12</a></li>
-              <li><a href="/report/day_13.html">Dzień 13</a></li>
-              <li><a href="/report/day_14.html">Dzień 14</a></li>
-              <li><a href="/report/day_15.html">Dzień 15</a></li>
-              <li><a href="/report/day_16.html">Dzień 16</a></li>
-              <li><a href="/report/day_17.html">Dzień 17</a></li>
-              <li><a href="/report/day_18.html">Dzień 18</a></li>
-              <li><a href="/report/day_19.html">Dzień 19</a></li>
-              <li><a href="/report/day_20.html">Dzień 20</a></li>
-              <li><a href="/report/day_21.html">Powrót</a></li>
-              <li class="clear"><a href="/report/info.html">Informacje</a></li>
-            </ol>
+            {% include menu.html %}
+            {% include report_menu.html %}
           </ol>
         </div>
       </div>
@@ -61,31 +26,12 @@
 
       <div id="sidebar">
         <div class="innertube">
-          <ul>
-            <li>Info</li>
-            <ul>
-              <li>Aktualizacja: <em>{{ site.time | date: "%Y-%m-%d, %H:%M" }}</em></li>
-            </ul>
-            <li>Linki</li>
-            <ul>
-              <li>Mail: <a href="mailto:islandia@bicyklem.pl">islandia@bicyklem.pl</a></li>
-              <li>Relacja z <a href="/bodensee.html">poprzedniej wyprawy nad jezioro Bodeńskie</a></li>
-            </ul>
-            <li>Sponsorzy</li>
-            <ul>
-              <li><a href="http://www.szumgum.com/" title="Sklepy Rowerowe">SzumGum.com<br /><img src="http://www.szumgum.com/banery/ok/140x112.gif" alt="Rower"></a></li>
-            </ul>
-            <li>Patronat</li>
-            <ul>
-              <li><a href="http://bikefama.pl/">BikeFama.pl<br /><img src="/images/patronage/bike_fama_banner.jpg" /></a></li>
-              <li><a href="http://mtbikes.pl/">mtbikes.pl<br /><img src="/images/patronage/mtbikes_banner.jpg" /></a></li>
-            </ul>
-          </ul>
+          {% include sidebar.html %}
         </div>
       </div>
 
       <div id="footer">
-        <span class="meta">Copyright &copy; 2010 Hardcore Icelandic Team :-)</span>
+        {% include footer.html %}
       </div>
     </div>
 

@@ -10,6 +10,7 @@ elevation_loss: 493
 avg_moving_speed: 15.9
 max_speed: 35.2
 garmin_connect_id: 34502827
+links: [http://en.wikipedia.org/wiki/Keflavík, http://www.randburg.com/is/salvationarmy/]
 ---
 
 <div class="image left">

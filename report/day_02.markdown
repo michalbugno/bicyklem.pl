@@ -10,6 +10,7 @@ elevation_loss: 444
 avg_moving_speed: 15.3
 max_speed: 45.5
 garmin_connect_id: 34107533
+links: [http://en.wikipedia.org/wiki/Þingvellir, http://en.wikipedia.org/wiki/Halldór_Laxness, http://en.wikipedia.org/wiki/Althing]
 ---
 
 Zbieramy się późno, pod dachem śpi się bardzo przyjemnie. W południe wyjeżdżamy
@@ -67,3 +68,8 @@ nie mają nawet bieżącej wody, może to bardziej fair, że nie płacimy ;-)
 Przejechaliśmy dziś ponad 60 kilometrów, całkiem nieźle, jak na tak późny start.
 Z rozmów przez telefon dowiadujemy się, że ma jutro padać. Na razie deszcz nas
 łaskawie omijał, ale nie łudzimy się - w końcu trzeba będzie zacząć walkę.
+
+Rozbijamy się, podłoże rzeczywiście jest przygotowane pod namioty, szpilki bez
+problemów wchodzą w lekko twardawą ziemię. Raz na jakiś czas drogą 200m dalej
+przejeżdża samochód, pasażerowie patrzą ze zdziwieniem na trzech idiotów na
+rowerach i pod namiotem.
