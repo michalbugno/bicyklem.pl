@@ -42,4 +42,22 @@ latarnią.
 
 Robimy tu krótki odpoczynek, rozgrzewamy się herbatą bo robi się dość chłodno.
 Postanawiamy, że dziś jedziemy do *Reykjaviku*, mimo, że trzeba będzie trochę
-zwiększyć tempo, bo przed nami grubo ponad 50km.
+zwiększyć tempo, bo przed nami grubo ponad 50km. Trasa jeszcze w księżycowym
+krajobrazie, dookoła nas kamienie i nic poza tym, od czasu do czasu jakieś
+gospodarstwo. Niestety po kilkunastu kilometrach wjeżdżamy na główną drogę z
+Keflaviku do Reykjaviku, na której jest bardzo duży ruch. Sytuację ratuje trochę
+dość szerokie pobocze, nie trzeba aż tak przejmować się pędzącymi samochodami.
+
+<div class="image left">
+  <a href="http://www.flickr.com/photos/michalbugno/4644228525/sizes/l" title="DSC_6780 by Michal Bugno, on Flickr"><img src="http://farm4.static.flickr.com/3333/4644228525_1117b13720_m.jpg" width="240" height="159" alt="DSC_6780" /></a>
+  <br />
+  <span>Po roztroczeniu się nasze rzeczy zajmują dość dużo miejsca. <em>Salvation
+  Army Hostel</em>.</span>
+</div>
+Około 20.00 dojeżdżamy do stolicy Islandii, kierujemy się teraz na hostel
+*Salvation Army*. Pod wejściem spotykamy Polaka, z którym zamieniamy kilka słów
+w ojczystym języku; portierka, jak się dowiadujemy, też mówi po polsku i oferuje
+nam nocleg za 3,300 / osobę. Bierzemy pokój na jedną noc. Prysznic przywraca
+trochę energii życiowej, wychodzimy coś zjeść i może poszwendać po mieście -
+jednak jesteśmy zbyt zmęczeni a po najedzeniu się w ogóle odechciewa się nam
+wszystkiego oprócz snu.
