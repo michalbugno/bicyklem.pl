@@ -155,7 +155,7 @@ dd {
   font-weight: bold;
 }
 
-.image img {
+.image table {
   border: 0;
   -moz-border-radius: 0;
   -webkit-border-radius: 0;
@@ -163,18 +163,21 @@ dd {
   padding: 0;
 }
 
-.image, img {
+table.image, img.image {
   border: 1px solid #526583;
   -moz-border-radius: 4px;
   -webkit-border-radius: 4px;
-  padding: 3px 0px 3px 3px;
+  padding: 3px 3px 0 3px;
   margin: 0 10px 0 10px;
 }
 
-.image span {
-  display: block;
+img.image {
+  padding-bottom: 3px;
+}
+
+.image caption {
+  padding-top: 5px;
+  caption-side: bottom;
   line-height: 1.0em;
   font-size: 0.8em;
-  width: 230px;
-  margin: 3px;
 }
