@@ -77,7 +77,7 @@ wjazdu* nie robi na nas wrażenia, do dziś zastanawiamy się właściwie dlacze
     </td>
   </tr>
 </table>
-Po kilometrze przechodzimy na mokry szuter, który towarzyszy nam już do końca
+Po kilometrze przechodzimy na mokry szuter, który towarzyszy nam prawie do końca
 dnia. Droga, którą jedziemy raz po raz zanika, rozgałęzia się, aby ominąć
 zalegające w zagłębieniach kałuże. Z jednego z takich *akwenów o niskim
 znaczeniu strategicznym* nabieramy wody, nie wiedząc czy będzie taka możliwość
