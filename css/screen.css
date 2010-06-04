@@ -102,6 +102,14 @@ p {
   border-left: 1px solid #999;
 }
 
+#sidebar img {
+  border: 1px solid #526583;
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+  padding: 3px;
+  margin: 0 10px 0 10px;
+}
+
 #sidebar ul {
   padding-left: 5px;
 }
