@@ -60,7 +60,7 @@ na szczęście można się do niego przyzwyczaić. Gazy wydobywające się na
 powierzchnię przeszkadzają trochę w rozmowie. Do butów klei się specyficzna
 glina, bardzo ciężko się jej pozbyć.
 <table class="image right">
-  <caption>Syk wydostającej się pod ciśnieniem pary z trudnem umożliwiał
+  <caption>Syk wydostającej się pod ciśnieniem pary z trudem umożliwiał
   rozmowę.</caption>
   <tr>
     <td>
