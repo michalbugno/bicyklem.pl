@@ -73,7 +73,7 @@ Dla jasności, **1000 koron** to mniej więcej **24 złote**.
    * kaseta rowerowa: **3400**
    * tylne koło rowerowe (obręcz, piasta, szprychy): **10,000**
    * 4 baterie alkaiczne: **600**
-   * autobus z *Jökulsárlón* do *Höfn* z rowerem: **3,300**
+   * autobus z *Jökulsárlón* do *Höfn* z rowerem (ok. 75km): **3,300**
    * benzyna: około **200-220 / l**
 
 ## Jedzenie
@@ -128,7 +128,7 @@ Przemieszczanie się po wyspie rowerem główną drogą jest bardzo wygodne. Mó
 tu o kulturze kierowców, którzy bardzo uważają na rowerzystów - mimo wszystko
 nasze trzy zapakowane mocno rowery budziły respekt. Ruch jest bardzo mały, choć
 należy wspomnieć o dwóch rzeczach. Po pierwsze byliśmy poza sezonem, po drugie
-odcinek *Keflavik -- Reykjavik** jest dość nieprzyjemny bo jeździ nim dużo
+odcinek *Keflavik -- Reykjavik* jest dość nieprzyjemny bo jeździ nim dużo
 samochodów i jeżdżą bardzo szybko.
 
 Rowerów poza Reykjavikiem nie zapinaliśmy zapięciami ani raz. Wszystkie rowery
