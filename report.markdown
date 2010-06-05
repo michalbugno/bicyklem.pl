@@ -14,5 +14,5 @@ W menu na górze można wybrać informacje o poszczególnych dniach wyprawy. Dzi
 *Informacje* zawiera cenne wskazówki i wiadomości o noclegach, jedzeniu, cenach,
 transporcie i innych przydatnych aspektach wycieczki.
 
-W międzyczasie poczytać o wycieczce [dookoła jeziora Bodeńskiego](./bodensee.html),
+Możesz także poczytać o wycieczce [dookoła jeziora Bodeńskiego](./bodensee.html),
 na której byliśmy rok temu.

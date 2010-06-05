@@ -10,7 +10,7 @@ elevation_loss: 1,362
 avg_moving_speed: 67.4
 max_speed: 115.4
 garmin_connect_id: 34107613
-links: [http://en.wikipedia.org/wiki/Mývatn, http://en.wikipedia.org/wiki/Húsav%C3%ADk]
+links: [http://en.wikipedia.org/wiki/Mývatn, http://en.wikipedia.org/wiki/Húsavík]
 ---
 
 Po dość przyjemnej nocy (sucho przede wszystkim!) zbieramy się i przed 10
