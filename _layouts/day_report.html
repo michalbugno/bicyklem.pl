@@ -23,16 +23,16 @@
 
             {{ content }}
 
-            {% if page.day < 9 %}
-              <a href="/report/day_0{{ page.day | plus:1 }}.html">Następny dzień</a>
-            {% elsif page.day < 21 %}
-              <a href="/report/day_{{ page.day | plus:1 }}.html">Następny dzień</a>
+            {% if page.day > 10 %}
+              <a href="/report/day_{{ page.day | minus:1 }}.html">Poprzedni dzień</a>
+            {% elsif page.day > 0 %}
+              <a href="/report/day_0{{ page.day | minus:1 }}.html">Poprzedni dzień</a>
             {% endif %}
 
-            {% if page.day > 10 %}
-              | <a href="/report/day_{{ page.day | minus:1 }}.html">Poprzedni dzień</a>
-            {% elsif page.day > 0 %}
-              | <a href="/report/day_0{{ page.day | minus:1 }}.html">Poprzedni dzień</a>
+            {% if page.day < 9 %}
+              | <a href="/report/day_0{{ page.day | plus:1 }}.html">Następny dzień</a>
+            {% elsif page.day < 21 %}
+              | <a href="/report/day_{{ page.day | plus:1 }}.html">Następny dzień</a>
             {% endif %}
 
             {% if page.links | size != 0 %}
