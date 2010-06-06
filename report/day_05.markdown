@@ -61,7 +61,7 @@ wulkanu *Hekla*.
 </table>
 Przy zaporze wodnej, juz po podjeździe skręcamy we wspomnianą F225, niemal
 natychmiast krajobraz zmienia się nie do poznania. Wokół nas nie ma nic, żadnych
-zabudować, tylko szara droga w szarej scenerii. Znaleźliśmy się tu dosłownie w 5
+zabudowań, tylko szara droga w szarej scenerii. Znaleźliśmy się tu dosłownie w 5
 minut, będziemy również dosłownie 5 dni.
 
 Przed wjazdem ostrzeżenia: jak przekraczać brody samochodem, jak jeździć po
