@@ -4,7 +4,7 @@ title: Wiatr na trasie do Djúpivogur
 author: msq
 ---
 
-<a href="/images/news/miejscowa_01.jpg"><img src="/images/news/miejscowa_01_thumb.jpg" class="image left" /></a>
+<a href="./images/news/miejscowa_01.jpg"><img src="./images/news/miejscowa_01_thumb.jpg" class="image left" /></a>
 
 Zmuszeni warunkami wstajemy wcześnie. Oglądamy skalisty, stromy brzeg, nieopodal
 którego biwakowaliśmy i o 11.30 wyruszamy. Przed nami kolejna dawka fiordów,

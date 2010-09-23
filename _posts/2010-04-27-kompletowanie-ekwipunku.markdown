@@ -4,8 +4,8 @@ title: Kompletowanie ekwipunku i RSS
 author: msq
 ---
 
-<a href="/images/news/preparations_01.jpg"><img src="/images/news/preparations_01_thumb.jpg" class="image left" /></a>
-<a href="/images/news/preparations_02.jpg"><img src="/images/news/preparations_02_thumb.jpg" class="image right" /></a>
+<a href="./images/news/preparations_01.jpg"><img src="./images/news/preparations_01_thumb.jpg" class="image left" /></a>
+<a href="./images/news/preparations_02.jpg"><img src="./images/news/preparations_02_thumb.jpg" class="image right" /></a>
 Trwa kompletowanie rzeczy na wyprawę. Rowery prawie spakowane (wysyłamy je
 kurierem do Szczecina, żeby w pociągu się nie martwić i spokojnie się przespać),
 ekwipunek już też gotowy, pozostaje kwestia sensownego zapakowania i przejrzenia
